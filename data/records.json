@@ -1,0 +1,52 @@
+[
+ {
+  "activity_id": 24415863264,
+  "activity_name": "Gy-les-Nonains - Test VMA",
+  "date": "2026-09-19",
+  "label": "1 km",
+  "type_id": 1,
+  "unit": "s",
+  "url": "https://connect.garmin.com/modern/activity/24415863264",
+  "value": 234.19000244140625
+ },
+ {
+  "activity_id": 24415863264,
+  "activity_name": "Gy-les-Nonains - Test VMA",
+  "date": "2026-09-19",
+  "label": "1 mile",
+  "type_id": 2,
+  "unit": "s",
+  "url": "https://connect.garmin.com/modern/activity/24415863264",
+  "value": 392.10400390625
+ },
+ {
+  "activity_id": 24306388769,
+  "activity_name": "Caluire-et-Cuire - 4 x 600m (R=200m)",
+  "date": "2026-09-10",
+  "label": "5 km",
+  "type_id": 3,
+  "unit": "s",
+  "url": "https://connect.garmin.com/modern/activity/24306388769",
+  "value": 1650.5560302734375
+ },
+ {
+  "activity_id": 24399780384,
+  "activity_name": "Caluire-et-Cuire - 2 x 3000m allure de course",
+  "date": "2026-09-17",
+  "label": "10 km",
+  "type_id": 4,
+  "unit": "s",
+  "url": "https://connect.garmin.com/modern/activity/24399780384",
+  "value": 3534.612060546875
+ },
+ {
+  "activity_id": 24515686494,
+  "activity_name": "Caluire-et-Cuire - 13km endurance",
+  "date": "2026-09-27",
+  "label": "Plus longue sortie",
+  "type_id": 7,
+  "unit": "m",
+  "url": "https://connect.garmin.com/modern/activity/24515686494",
+  "value": 13016.009765625
+ }
+]

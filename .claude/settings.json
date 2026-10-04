@@ -1,0 +1,23 @@
+{
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cd \"$CLAUDE_PROJECT_DIR\" && uv run --quiet scripts/sync.py --hook",
+            "timeout": 120
+          }
+        ]
+      }
+    ]
+  },
+  "permissions": {
+    "allow": [
+      "Bash(uv run scripts/sync.py:*)",
+      "Bash(uv run scripts/report.py:*)",
+      "Bash(uv run scripts/checkin.py:*)",
+      "Bash(uv run scripts/build_readme.py:*)"
+    ]
+  }
+}

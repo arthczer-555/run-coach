@@ -1,0 +1,21 @@
+date,sport,title,details,description,duration_min,distance_km,source
+2026-09-30,run,50 min footing lent,,"Séance Pacer exportée puis déplacée au 01/10 (doublon fantôme, signalé par Arthur le 03/10)",,,annule
+2026-10-06,strength,Renfo A · Jambes solides,"Familiarisation : 2 séries, 3-4 reps en réserve. Mollets sur 2 pieds.",Après la séance Kiprun. Voir plans/renfo/prevention-A.md,22,,coach
+2026-10-08,strength,Renfo B · Haut du corps + hanches,"Familiarisation : 2 séries, 3-4 reps en réserve.",Après la sortie Kiprun. Voir plans/renfo/prevention-B.md,21,,coach
+2026-10-09,bike,Vélo endurance Z2,"45-60 min sur le plat, conversation possible, 85-95 rpm",Peut remplacer une sortie si le tibia fait mal au test de saut,50,,coach
+2026-10-13,strength,Renfo A · Jambes solides,"Familiarisation : 2 séries, 3 reps en réserve. Mollets sur 1 pied.",Après la séance Kiprun,22,,coach
+2026-10-15,strength,Renfo B · Haut du corps + hanches,"Familiarisation : 2 séries, 3 reps en réserve.",Après la sortie Kiprun,21,,coach
+2026-10-16,bike,Vélo endurance Z2,"45-60 min sur le plat, conversation possible, 85-95 rpm",,55,,coach
+2026-10-20,strength,Renfo A · Jambes solides,"3 séries, 2 reps en réserve, descente 3 s. Pogo 2 x 10 seulement si 2 semaines sans douleur au tibia.",Après la séance Kiprun,25,,coach
+2026-10-22,strength,Renfo B · Haut du corps + hanches,"3 séries, 2 reps en réserve.",Après la sortie Kiprun,23,,coach
+2026-10-23,bike,Vélo endurance Z2,"60-75 min sur le plat, conversation possible",,65,,coach
+2026-10-27,strength,Renfo A · Jambes solides,"3 séries, 2 reps en réserve. Fente bulgare avec sac à dos lesté si trop facile. Pogo 3 x 10 si OK.",Après la séance Kiprun,25,,coach
+2026-10-29,strength,Renfo B · Haut du corps + hanches,"3 séries, 2 reps en réserve.",Après la sortie Kiprun,23,,coach
+2026-10-30,bike,Vélo endurance Z2,"60-75 min sur le plat, conversation possible",,65,,coach
+2026-11-03,strength,Renfo A · Jambes solides,"Dernière semaine pleine : 3 séries, 2 reps en réserve.",Après la séance Kiprun,25,,coach
+2026-11-05,strength,Renfo B · Haut du corps + hanches,"Dernière semaine pleine : 3 séries, 2 reps en réserve.",Après la sortie Kiprun,23,,coach
+2026-11-06,bike,Vélo endurance Z2,"60-75 min sur le plat, conversation possible",Pas plus long : sortie longue de 17 km le dimanche,65,,coach
+2026-11-10,strength,Renfo A allégé,"Volume -50 % : 1-2 séries, 3 reps en réserve, pas de sauts. Dernière séance de force avant le semi.",Après la séance Kiprun (J-12),15,,coach
+2026-11-11,bike,Vélo facile Z2,"60 min maximum, sur le plat",Au moins 48 h avant la séance allure SPE du 15/11,45,,coach
+2026-11-17,strength,Activation (facultatif),"10 min au poids du corps : pont, mollets, gainage. Aucune courbature.",J-5. Rien à partir du 19/11,10,,coach
+2026-11-18,bike,Vélo très facile (facultatif),"20-30 min Z1, sur le plat",Pour se dégourdir sans impact. Rien de nouveau,25,,coach

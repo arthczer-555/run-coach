@@ -1,0 +1,28 @@
+{
+ "age": 24,
+ "devices": [
+  "Forerunner 165"
+ ],
+ "height_cm": 171.0,
+ "hr_zones": [
+  {
+   "floors": [
+    99,
+    118,
+    138,
+    158,
+    177
+   ],
+   "lthr": null,
+   "max_hr": 197,
+   "method": "HR_MAX",
+   "resting_hr": 50,
+   "sport": "DEFAULT"
+  }
+ ],
+ "lactate_threshold_hr": null,
+ "lactate_threshold_speed_raw": null,
+ "vo2max_bike": null,
+ "vo2max_run": 55.0,
+ "weight_kg": 65.0
+}

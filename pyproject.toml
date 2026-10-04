@@ -1,0 +1,13 @@
+[project]
+name = "run-coach"
+version = "0.1.0"
+description = "Coach running perso : sync Garmin, bilans, dashboard README"
+requires-python = ">=3.12"
+dependencies = [
+    "garminconnect>=0.3.17",
+    "matplotlib>=3.9",
+    "pandas>=2.2",
+]
+
+[tool.uv]
+package = false

@@ -1,0 +1,12 @@
+{
+ "race": {
+  "name": "Semi-marathon",
+  "emoji": "🎯",
+  "date": "2026-11-22",
+  "distance_km": 21.0975,
+  "target_s": 6600,
+  "location": null
+ },
+ "plan_start": "2026-09-02",
+ "notes": "Objectif annoncé le 2026-10-03 : 1h50 (5:13/km). plan_start = 2026-09-02, première séance Kiprun visible dans Garmin (à confirmer)."
+}
