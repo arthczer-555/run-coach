@@ -12,17 +12,19 @@
 
 <!-- Tenu à jour à chaque session. ~40 lignes max. C'est la mémoire de travail du coach. -->
 
-**Mis à jour le** : 2026-10-03 (onboarding + premier bilan, en attente des réponses sur le tibia)
+**Mis à jour le** : 2026-10-04 (tibia RAS, rugby hebdomadaire découvert, proposition de semaine type en attente)
 
 - **Athlète** : Arthur, 24 ans, 65 kg, Forerunner 165. **Débutant** : court régulièrement depuis ~août, **aucune course officielle**.
   VMA **15 km/h** (test Pacer du 19/09). FC max Garmin 197 = auto-détection, jamais atteinte (max observé 178) → zones FC incertaines.
-  Montre pas portée la nuit, **d'accord pour essayer** (HRV + sommeil d'ici ~3 semaines).
+  Montre **portée la nuit depuis le 03-04/10** (1re nuit : sommeil 7h33, FC repos 47, HRV 79 ms) ; baseline HRV Garmin d'ici ~3 semaines.
 - **Objectif** : semi le **22/11/2026**, visé en **1h50** (77 % de VMA ; prédiction Garmin 1:49:42). Jugé ambitieux mais plausible ;
   le risque principal est la blessure. Proposé : A < 1h50 · B < 1h55 bien géré · C finir sans blessure. À réévaluer fin octobre.
 - **Après** : marathon, puis triathlon (M puis half), peut-être trail.
 - **Plan** : Kiprun Pacer, 3 séances/sem (jours variables), phase spécifique, allure course 5:06-5:18. Tout le plan est dans Garmin.
-- **Santé** : 🟠 **tibia** (03/10) : douleur diffuse le long de l'os, apparue sur le 2 × 2000 m (arrêt après 1 répétition). Plus de
-  douleur au repos ensuite, « occasionnelle » selon Arthur. Test du saut unipodal à faire avant chaque sortie de la semaine. Arthur l'attribue au vélo ;
+- **Rugby tous les lundis soir** (+ foot en fin d'entraînement), découvert le 04/10, jamais enregistré dans Garmin : charge intense cachée.
+  Règle : **jamais de séance clé le lendemain du rugby** (mardi). Pacer met ses séances clés le mardi → jours à changer.
+- **Santé** : 🟡 **tibia** (03/10) : douleur diffuse le long de l'os, apparue sur le 2 × 2000 m (arrêt après 1 répétition). Plus de
+  douleur au repos ensuite ; **test du tibia RAS le 04/10** (palpation, marche, sauts). Test à refaire avant chaque sortie. Arthur l'attribue au vélo ;
   le coach pense plutôt à la hausse de volume de septembre (17,5 → 30 km/sem, +72 %). Genoux (si pas échauffé) et chevilles : récurrent léger.
   Jambes lourdes et fatigue cette semaine.
 - **Diagnostic « jambes » (03/10)** : le cœur a de la marge à allure semi (FC ~135-150 au frais), ce sont les jambes qui limitent
@@ -32,10 +34,12 @@
   ✅ **Programme « Prévention semi » actif** (validé le 03/10, 05/10 → 22/11) : renfo A (jambes, après la séance clé) + renfo B
   (haut du corps + hanches + pieds, ≥ 48 h avant la sortie longue), sans matériel, 2 × 20-25 min/sem + vélo route Z2 1x/sem.
   Détail : `plans/complementaire.md`, `plans/renfo/prevention-A.md` / `-B.md` ; séances datées dans `data/planned_manual.csv`.
-- **Semaine S+1 (05-11/10), recommandations provisoires** : repos dim 04/10 ; 2 × 3000 m du mardi seulement si test de saut indolore,
-  sinon vélo facile ; 7 × 400 m du jeudi remplacé par du facile cette semaine ; sortie longue du 11/10 plafonnée à 13 km ; vélo 45-60 min Z1-Z2.
-- **Prochaine étape** : semaine du 05/10 (S1 du programme) : test de saut avant chaque sortie, 1re séance de renfo mardi 06/10,
-  retour sur les courbatures à 24-48 h. Prochain bilan vers le 11-12/10.
+- **Semaine 05-11/10** : 2 × 3000 m lundi (≥ 6 h avant le rugby) sinon mercredi, jamais mardi ; 7 × 400 m → footing facile ;
+  sortie longue du 11/10 ≤ 13 km ; pas de vélo (le rugby le remplace). Test du tibia avant chaque sortie.
+- **En attente de validation** : semaine type Lu rugby · Ma repos · Me clé + renfo A · Je renfo B · Ve footing · Sa repos · Di SL ;
+  vélo retiré jusqu'au semi. Puis mettre à jour `plans/complementaire.md`, `data/planned_manual.csv`, README.
+- **Prochaine étape** : retour d'Arthur sur les jambes après la séance clé (souffle /10 vs jambes /10), rugby enregistré sur la montre,
+  date de début du rugby. Prochain bilan vers le 11-12/10.
 
 ---
 
@@ -235,3 +239,31 @@
 - **Conseil** : de préférence le mardi 06/10 (le 2 × 3000 m prévu, 3 jours après le 03/10, renfo A le même jour), seulement si le test de
   saut est indolore. Retour demandé : souffle /10 et jambes /10 séparément pendant les fractions, type et lieu de la sensation, tibia
   pendant et le lendemain matin, sommeil et repas avant la séance.
+- **Ajout** : Arthur a **rugby lundi soir (05/10)**, jamais signalé jusqu'ici et absent de Garmin. Un 2 × 3000 m le mardi, moins de 24 h
+  après sprints, appuis et contacts, avec un tibia sensible : non. Proposition en attente de validation : rugby lundi (si saut indolore,
+  stop si tibia > 3/10), repos mardi, 2 × 3000 m + renfo A mercredi, renfo B jeudi, footing facile vendredi (à la place du 7 × 400 m),
+  sortie longue dimanche plafonnée à 13 km, **pas de vélo cette semaine** (le rugby le remplace). Questions posées : rugby chaque semaine ?
+  depuis quand ? joué le 28/09 (ce qui expliquerait en partie les jambes lourdes et le tibia) ?
+- **Option lundi** (question d'Arthur) : 2 × 3000 m lundi matin ou midi (≥ 6 h avant le rugby, repas entre les deux), rugby le soir, puis
+  repos mardi ; renfo A mercredi, footing facile + renfo B jeudi, sortie longue dimanche ≤ 13 km. Jugée **plutôt meilleure** que mercredi :
+  séance clé sur jambes fraîches au lieu de jambes courbaturées 40 h après le rugby, puis 2 jours pour récupérer. Contrepartie : jambes
+  entamées au rugby (risque musculaire), et grosse journée pour le tibia. En attente : validation, et rugby hebdomadaire ou non, joué le 28/09 ?
+- **1re nuit avec la montre (03-04/10)** : coucher 23:57, lever 08:12, 7h33 de sommeil (profond 1h29, paradoxal 1h04, 1 réveil), score 84,
+  FC repos 47 (réglage Garmin 50 ; 55 la seule autre nuit, le 15/07), HRV 79 ms (64 le 15/07), Body Battery +74. Nuit de bonne récupération
+  après le jour de repos, mais **une nuit seule ne s'interprète pas** : il faut ~3 semaines pour une baseline. Lecture du sommeil et de la
+  HRV par la sync vérifiée sur les vraies données (point « à vérifier » de CLAUDE.md § 13).
+- **Test du tibia expliqué** (Arthur ne savait pas ce que c'était) : palpation du bord interne (bande ou point précis), marche + escalier,
+  10 sauts sur une jambe en comparant les deux côtés. Vert → course ; douleur aux sauts → vélo (kiné/médecin si > 3 jours) ; point précis,
+  marche, nuit → arrêt et médecin. Pas à pas ajouté dans le README (🩹 Santé), qui harmonise la règle (avant : « douleur au saut → médecin »
+  dans Santé, « → vélo » dans le programme). À demander : quelle jambe, résultat du test ce matin.
+- **Test du tibia du 04/10 au matin : RAS** (palpation, marche, sauts indolores). Check-in enregistré (douleur 0). Tibia passé en 🟡 :
+  feu vert pour courir lundi, règle des 3/10 pendant la séance et test à refaire avant chaque sortie.
+- **Réponses d'Arthur** : la séance clé sera lundi s'il a le temps, sinon mardi ou mercredi selon ses sensations. **Rugby tous les lundis
+  soir, avec du foot en fin d'entraînement.**
+- **Analyse** : mardi = le pire choix (moins de 24 h après sprints et appuis, courbatures qui arrivent à 24-48 h : la sensation du mardi matin
+  trompe). Règle donnée : lundi (≥ 6 h avant le rugby) sinon mercredi, jamais mardi. Le rugby hebdomadaire est une séance intense invisible
+  dans Garmin : la charge de septembre était plus haute que les +72 % calculés (course seule), ce qui renforce l'hypothèse « charge » pour le
+  tibia. Pacer place ses séances clés le mardi (06, 13, 20/10…) : chaque semaine, le lendemain du rugby.
+- **Proposition (en attente de validation)** : semaine type Lu rugby · Ma repos · Me séance clé Kiprun + renfo A · Je renfo B ·
+  Ve footing Kiprun · Sa repos · Di sortie longue ; vélo retiré jusqu'au semi (le rugby fait office de sport complémentaire) ; jours à changer
+  dans Pacer ; enregistrer le rugby sur la montre.

@@ -342,7 +342,7 @@ Sur le plat · tu dois pouvoir **parler en phrases complètes** (RPE 4-5/10) · 
 Peut remplacer une sortie facile si le tibia fait mal, **jamais** la sortie longue.
 
 > ✅ **On progresse** : aucune courbature au-delà de 48 h, aucune douleur le lendemain. · ⚠️ **On allège** : jambes lourdes le jour de la sortie longue, tibia > 3/10. · 🏃 **La course passe toujours avant le renfo.**
-> 🦵 **Avant chaque sortie** : 10 petits sauts sur la jambe du tibia. Douleur → vélo facile à la place. · ⌚ Lance l'activité « Musculation » sur la montre pour que le renfo remonte dans les bilans.
+> 🦵 **Avant chaque sortie** : le test du tibia (palpation, marche, 10 sauts sur une jambe, détail dans 🩹 Santé). Douleur aux sauts → vélo facile à la place. · ⌚ Lance l'activité « Musculation » sur la montre pour que le renfo remonte dans les bilans.
 
 <sub>Détail et règles : [plans/complementaire.md](plans/complementaire.md) · Bibliothèque renfo : [plans/renfo/](plans/renfo/)</sub>
 
@@ -351,9 +351,24 @@ Peut remplacer une sortie facile si le tibia fait mal, **jamais** la sortie long
 <!-- Section coach : douleurs ou blessures suivies, avec statut et date. -->
 | Zone | Depuis | Intensité | Statut | Conduite à tenir |
 |---|---|:-:|:-:|---|
-| Tibia (douleur diffuse le long de l'os) | 03/10/2026 | à noter /10 | 🟠 | Triage (point précis ? douleur au saut, à la marche, la nuit ?). Moins d'impact cette semaine. Si point précis ou douleur au saut : arrêt et médecin |
+| Tibia (douleur diffuse le long de l'os, apparue en courant) | 03/10/2026 | 0 au test du 04/10 | 🟡 | **Test du tibia** avant chaque sortie (ci-dessous). Moins d'impact cette semaine. Douleur au saut → vélo ; point précis, douleur à la marche ou la nuit → arrêt et médecin |
 | Cheville | 01/10/2026 | légère | 🟡 | Surveiller ; renfo cheville à venir |
 | Genoux | récurrent | légère | 🟡 | Échauffement systématique ; renfo hanches et quadriceps à venir |
+
+<details>
+<summary>🦵 <b>Le test du tibia</b> (2 min, avant chaque sortie et au réveil)</summary>
+
+1. **Palpation** (assis, jambe détendue) : appuie fermement du bout des doigts tous les 2-3 cm le long du **bord intérieur du tibia**, du genou à la cheville. Compare avec l'autre jambe. Note si c'est sensible sur **une bande** (plusieurs cm) ou sur **un point précis** que tu peux montrer avec un doigt.
+2. **Marche** : 1 min de marche rapide, puis quelques marches d'escalier en montée et en descente.
+3. **Sauts** : 10 petits sauts sur place sur la jambe douloureuse (5-10 cm de haut, sur l'avant du pied), puis 10 sur l'autre jambe pour comparer. Note la douleur /10.
+
+| Résultat | Décision |
+|---|---|
+| 🟢 Rien, ou bande un peu sensible à la palpation seulement (≤ 2/10), sauts indolores | Course OK selon le plan, règle des 3/10 pendant la séance |
+| 🟠 Douleur aux sauts (même diffuse) | Pas de course ce jour-là → vélo facile. Si ça dure plus de 3 jours → kiné ou médecin |
+| 🔴 Point précis douloureux, douleur à la marche, la nuit ou au repos | Stop course et **médecin** (fracture de fatigue à éliminer) |
+
+</details>
 
 ## 📊 Totaux
 

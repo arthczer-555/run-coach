@@ -10,13 +10,13 @@
 |---|---|
 | Statut | Étudiant en école d'ingénieur (dernière année en 2026-2027), entrepreneur dans l'âme |
 | Âge / taille / poids | 24 ans · 171 cm · 65 kg (Garmin, 03/10/2026) |
-| Montre | **Garmin Forerunner 165** (FC poignet, puissance de course ; pas de training load ni de training status Garmin). **Pas portée la nuit** (confirmé le 03/10/2026, Arthur est d'accord pour essayer) : 1 seule nuit mesurée (15/07/2026), donc pas encore de HRV, sommeil ni FC de repos fiables |
+| Montre | **Garmin Forerunner 165** (FC poignet, puissance de course ; pas de training load ni de training status Garmin). **Portée la nuit depuis le 03-04/10/2026** (avant : 1 seule nuit mesurée, le 15/07/2026). Baseline HRV Garmin attendue vers fin octobre. Pas de Training Readiness sur ce modèle |
 | Apps | Kiprun Pacer (plan), Garmin Connect, Strava (social, non utilisé par le coach) |
 
 ## Historique sportif
 
 - Depuis quand il court : **débutant**, court régulièrement « depuis août en gros » (03/10/2026). Garmin : quelques sorties en 08/2025, rien d'octobre 2025 à juin 2026, sorties régulières depuis juillet 2026. **Os et tendons encore jeunes à la course** : le cardio progresse plus vite que les tissus.
-- Autres sports (passé / présent) : natation (5 séances en 08/2025), vélo (2 sorties en 09/2026), ❓ autres
+- Autres sports (passé / présent) : natation (5 séances en 08/2025), vélo (2 sorties en 09/2026), **rugby tous les lundis soir, avec un peu de foot en fin d'entraînement** (confirmé le 04/10/2026 ; pas enregistré dans Garmin jusqu'ici ; ❓ depuis quand)
 - Courses déjà faites et chronos : **aucune course officielle** (03/10/2026). Le semi du 22/11 sera sa première. Records Garmin pris à l'entraînement : 1 km 3:54 (test VMA du 19/09), 5 km 27:31, 10 km 58:55.
 - Plus gros volume hebdo tenu : 30,8 km (semaine du 21/09/2026). Plus longue sortie : **13,0 km** (27/09/2026). Volume passé de 17,5 à 30,1 km/sem entre les semaines du 07/09 et du 14/09 (+72 %).
 
