@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-04T10:04:41",
+ "fetched": "2026-10-05T22:48:10",
  "items": [
   {
    "date": "2026-09-02",
@@ -145,7 +145,7 @@
    "workout_id": 1717339306
   },
   {
-   "date": "2026-10-06",
+   "date": "2026-10-05",
    "description": "Cette séance prévoit deux sessions d'effort autour de l'allure ciblée. Essayez d'être le plus proche possible de l'allure cible sur la fraction d'effort. Si vous vous sentez très bien, vous pouvez accélérer lors des 500 derniers mètres.",
    "details": "Échauffement 25 min @ 6:15-6:33/km · 2 × (3 km @ 5:06-5:18/km + Repos 500 m @ 6:31-6:50/km) · Récup 10 min @ 6:31-6:50/km",
    "distance_km": null,
@@ -153,7 +153,7 @@
    "source": "garmin",
    "sport": "run",
    "title": "2 x 3000m allure de course",
-   "workout_id": 1717575384
+   "workout_id": 1720585810
   },
   {
    "date": "2026-10-08",

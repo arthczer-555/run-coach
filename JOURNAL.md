@@ -12,7 +12,7 @@
 
 <!-- Tenu à jour à chaque session. ~40 lignes max. C'est la mémoire de travail du coach. -->
 
-**Mis à jour le** : 2026-10-04 (tibia RAS, rugby hebdomadaire découvert, proposition de semaine type en attente)
+**Mis à jour le** : 2026-10-05 (2 × 2000 m au chaud, tibia revenu à km 2, semaine allégée, règle « 1 qualité/sem » à trancher au bilan)
 
 - **Athlète** : Arthur, 24 ans, 65 kg, Forerunner 165. **Débutant** : court régulièrement depuis ~août, **aucune course officielle**.
   VMA **15 km/h** (test Pacer du 19/09). FC max Garmin 197 = auto-détection, jamais atteinte (max observé 178) → zones FC incertaines.
@@ -23,10 +23,11 @@
 - **Plan** : Kiprun Pacer, 3 séances/sem (jours variables), phase spécifique, allure course 5:06-5:18. Tout le plan est dans Garmin.
 - **Rugby tous les lundis soir** (+ foot en fin d'entraînement), découvert le 04/10, jamais enregistré dans Garmin : charge intense cachée.
   Règle : **jamais de séance clé le lendemain du rugby** (mardi). Pacer met ses séances clés le mardi → jours à changer.
-- **Santé** : 🟡 **tibia** (03/10) : douleur diffuse le long de l'os, apparue sur le 2 × 2000 m (arrêt après 1 répétition). Plus de
-  douleur au repos ensuite ; **test du tibia RAS le 04/10** (palpation, marche, sauts). Test à refaire avant chaque sortie. Arthur l'attribue au vélo ;
-  le coach pense plutôt à la hausse de volume de septembre (17,5 → 30 km/sem, +72 %). Genoux (si pas échauffé) et chevilles : récurrent léger.
-  Jambes lourdes et fatigue cette semaine.
+- **Santé** : 🟠 **tibia** : douleur diffuse le long de l'os le 03/10 (2 × 2000 m, arrêt après 1 rép.), test RAS le 04/10, **revenue le
+  05/10 vers km 2** (échauffement), calmée après une pause, séance finie. 2 alertes en 3 jours, plus tôt dans la sortie : à surveiller.
+  **Si elle revient à la prochaine sortie → kiné / médecin du sport**, vélo en attendant. Test du tibia avant chaque sortie. Arthur
+  l'attribuait au vélo ; le coach pense à la charge (volume de septembre +72 % + rugby invisible + densité d'intensité).
+  Genoux (si pas échauffé) et chevilles : récurrent léger.
 - **Diagnostic « jambes » (03/10)** : le cœur a de la marge à allure semi (FC ~135-150 au frais), ce sont les jambes qui limitent
   (endurance musculaire, mollets, tissus). Moteur VDOT ~45 vs objectif 40. Cadence fixe ~167, tout passe par la foulée. Chaleur : +1,4 bpm/°C.
   Leviers : volume facile + SL par paliers, blocs Kiprun à allure semi, renfo A (mollets), cadence +3-5 % plus tard si tibia calme.
@@ -34,12 +35,19 @@
   ✅ **Programme « Prévention semi » actif** (validé le 03/10, 05/10 → 22/11) : renfo A (jambes, après la séance clé) + renfo B
   (haut du corps + hanches + pieds, ≥ 48 h avant la sortie longue), sans matériel, 2 × 20-25 min/sem + vélo route Z2 1x/sem.
   Détail : `plans/complementaire.md`, `plans/renfo/prevention-A.md` / `-B.md` ; séances datées dans `data/planned_manual.csv`.
-- **Semaine 05-11/10** : 2 × 3000 m lundi (≥ 6 h avant le rugby) sinon mercredi, jamais mardi ; 7 × 400 m → footing facile ;
-  sortie longue du 11/10 ≤ 13 km ; pas de vélo (le rugby le remplace). Test du tibia avant chaque sortie.
+- **Intensité** (analyse du 05/10) : depuis juillet 45 % Z1-2 / 43 % Z3 / 12 % Z4 (zones Garmin sur FCmax 197, Z3 = 138-158). Footings
+  lents OK (126-132 bpm). Problème = **densité** : 7 sorties sur 13 en qualité depuis le 01/09 + rugby. Pacer met 2 qualités + bloc allure
+  semi dans la SL chaque semaine : trop pour lui aujourd'hui. Volume du plan : OK.
+- **Proposé le 05/10 (en attente)** : 1 seule qualité/sem (allure semi/seuil Pacer à 5:13-5:18, jamais plus vite), VMA → footing + lignes
+  droites, SL en facile (bloc allure semi après 2 sem. sans douleur), « endurance » au test de la parole (≤ ~150 bpm au frais), rugby = la
+  2e séance dure, séances clés au frais. Décision 1h50 / 1h55 fin octobre sur un test au frais.
+- **Semaine 05-11/10 (allégée, décidé le 05/10)** : Lu 2 × 2000 m + foot tranquille le soir (pas le rugby) · Ma repos + test tibia ·
+  Me renfo A sans saut · Je footing facile 30-35 min (au lieu de 7 × 400 m) + renfo B · Ve-Sa repos (pas de vélo) · Di sortie longue
+  **10 km max tout en facile** (au lieu de 15 km avec 3 km allure semi). ~24 km au lieu des ~35 de Pacer. Tibia douloureux → vélo facile.
 - **En attente de validation** : semaine type Lu rugby · Ma repos · Me clé + renfo A · Je renfo B · Ve footing · Sa repos · Di SL ;
   vélo retiré jusqu'au semi. Puis mettre à jour `plans/complementaire.md`, `data/planned_manual.csv`, README.
-- **Prochaine étape** : retour d'Arthur sur les jambes après la séance clé (souffle /10 vs jambes /10), rugby enregistré sur la montre,
-  date de début du rugby. Prochain bilan vers le 11-12/10.
+- **Prochaine étape** : réponses d'Arthur (tibia : jambe, /10, bande ou point ; rugby ce soir et jusqu'au semi ; souffle /10 et jambes /10
+  sur la rép. 2 ; priorité 1h50 ou arriver en forme), test du tibia le 06/10, règle « 1 qualité/sem » et semaine type à trancher au bilan du 11-12/10 (choix d'Arthur : aviser la semaine prochaine).
 
 ---
 
@@ -267,3 +275,58 @@
 - **Proposition (en attente de validation)** : semaine type Lu rugby · Ma repos · Me séance clé Kiprun + renfo A · Je renfo B ·
   Ve footing Kiprun · Sa repos · Di sortie longue ; vélo retiré jusqu'au semi (le rugby fait office de sport complémentaire) ; jours à changer
   dans Pacer ; enregistrer le rugby sur la montre.
+
+### 2026-10-05 · Séance clé · 2 × 2000 m au chaud, tibia de retour, zones et densité du plan
+
+- **Contexte** : séance à 14:47 (Caluire), 9,0 km en 54:24, RPE 6. Prévu 2 × 3000 m allure course, fait **2 × 2000 m**. Laps auto au km :
+  échauffement 6:12 · 6:12 · **6:38 (FC 122 : pause tibia)** · 6:33 ; rép. 1 **5:14 / 5:08** (FC 153 / 161) ; rép. 2 estimée ~5:20-5:30
+  (km 8 à 5:23, FC 164, max 166 ; laps auto non alignés sur les fractions). Température montre 27-31 °C. Semaine précédente : 10,9 km.
+- **Ressenti / réponses d'Arthur** : a allégé à 2 × 2000 m parce qu'il faisait très chaud et qu'il avait levé le pied la semaine dernière.
+  Vers 2 km, **même douleur le long du tibia**, qui monte doucement ; il s'est arrêté, a repris, ça allait mieux. 2e 2000 m dur, n'a pas
+  tenu l'allure, a ralenti. Questions : court-il trop en zones 3-4, devrait-il courir plus en zone 1 ? Le programme est-il trop gros pour
+  son objectif et son niveau ?
+- **Analyse du coach** :
+  - Séance : rép. 1 pile dans la cible (5:11 de moyenne). Même allure le 03/10 à 18-19 °C : FC 135-142 ; aujourd'hui 153-161 à 28 °C
+    → +18-20 bpm, cohérent avec l'effet chaleur mesuré (+1,4 bpm/°C). Rép. 2 à 164-166 bpm (~92 % de la FC max observée) = effort
+    seuil / 10 km, pas semi. Ralentir était la bonne décision ; ce n'est pas un manque de niveau.
+  - Tibia : **2e alerte en 3 jours**, même tableau diffus, apparue **plus tôt** (km 2 à l'échauffement contre km 5 le 03/10) mais calmée
+    après une pause et séance terminée. Toujours compatible avec un MTSS ; une douleur qui arrive « de plus en plus tôt » est un signe à
+    surveiller [Warden 2014]. Rugby prévu le soir même (~4 h après).
+  - Zones : depuis juillet, **45 % Z1-2 / 43 % Z3 / 12 % Z4** (zones Garmin sur FCmax 197 jamais atteinte : Z3 = 138-158 bpm, à cheval
+    entre facile et modéré). Les footings lents sont bien faits (126-132 bpm). Garmin Z1 (< 118 bpm) ≈ marche : pas une cible.
+    Le vrai problème est la **densité** : depuis le 01/09, **7 sorties sur 13** en qualité ou test, sorties « endurance » Pacer
+    (5:48-6:03) à ~145-150 bpm, et le **rugby du lundi** que Pacer ne voit pas. Environ 1 séance sur 2 est dure, contre 1 sur 4-5 visé.
+  - Plan : le **volume** est raisonnable (25-35 km/sem, sortie longue max 17 km, minimum utile pour un semi [Fokkema 2020]). La **densité
+    d'intensité** est trop forte pour lui aujourd'hui : chaque semaine 2 séances dures + bloc allure semi dans la sortie longue (13/10 :
+    15 km progressifs finis à 4:55-5:05 ; semaine du 26/10 : 5 × 1500 m à 90 % VMA + 8 × 500 m). Plan pensé pour un coureur avec une base,
+    sans rugby. 1h50 : moteur OK (VMA 15, 5:11 à 135-142 bpm au frais), châssis pas encore (sortie longue max 13 km, ~24 km/sem sur les
+    3 dernières semaines complètes, aucune course, tibia).
+- **Décisions / conseils** (proposés, en attente des réponses d'Arthur) :
+  1. **Rugby ce soir : le zapper** (ou version très légère : pas de sprint, pas de foot, stop à la 1re douleur). Sprints, appuis et
+     changements de direction = la charge la plus agressive pour un tibia qui a parlé 2 fois en 3 jours, avec 9 km au chaud dans les jambes.
+  2. Test du tibia demain matin. 🟢 → renfo A (familiarisation) ; 🟠 → pas de course, vélo facile ; 🔴 → médecin.
+  3. Reste de la semaine : 7 × 400 m → footing facile 40 min (+ renfo B) ; sortie longue du 11/10 → **10-12 km tout en facile**, sans bloc
+     allure semi.
+  4. **Seuil de consultation** : si la douleur revient à la prochaine sortie (3e fois) → kiné ou médecin du sport, vélo en attendant.
+  5. Jusqu'au semi (si validé) : **1 seule séance de qualité par semaine** (allure semi / seuil de Pacer, à 5:13-5:18, jamais plus vite) ;
+     séances VMA (7 × 400, 5 × 1500, 8 × 500, 30/30) → footing + 4-6 lignes droites ; sortie longue en facile, bloc allure semi seulement
+     après 2 semaines sans douleur ; sorties « endurance » au test de la parole (≤ ~150 bpm au frais) même si plus lent que Pacer.
+     Le rugby compte comme la 2e séance dure. Séances clés aux heures fraîches ; au chaud, courir à l'effort, pas à l'allure.
+     Pacer s'adapte aux séances réalisées : remplacer une séance change la suite du plan.
+  6. Objectif : 1h50 reste l'objectif A, décision 1h50 / 1h55 fin octobre sur un test au frais (8-10 km ou 2 × 5 km à 5:13).
+- **À suivre** : note du tibia (jambe, /10, bande ou point, pendant les fractions, à la marche ce soir), rugby ce soir et jusqu'au semi
+  (pause possible ?), souffle /10 et jambes /10 sur la rép. 2, priorité d'Arthur (1h50 à tout prix ou arriver en forme), validation de la
+  semaine type et de la règle « 1 qualité par semaine ».
+
+### 2026-10-05 · Programme · Semaine allégée, décision sur le plan reportée
+
+- **Réponse d'Arthur** : il veut alléger un peu la semaine et aviser la semaine prochaine pour le reste. Ce soir : pas le rugby, **foot
+  tranquille** à la place.
+- **Analyse du coach** : bon compromis par rapport au rugby, mais le foot reste des appuis et des changements de direction ; c'est le tibia
+  qui fixe la limite. Semaine précédente 10,9 km : viser ~24 km cette semaine (contre ~35 prévus par Pacer) reste sous les 30 km de septembre.
+- **Décisions** : foot sans sprint à fond ni duel, 1 h max, sortie à la 1re sensation au tibia. Ma repos + test du tibia ; Me renfo A sans saut
+  (déplacé du mardi) ; Je footing facile 30-35 min + renfo B ; Ve-Sa repos, **vélo du 09/10 retiré** ; Di sortie longue 10 km max tout en facile.
+  Tibia douloureux au test ou pendant le footing → vélo facile à la place, et kiné / médecin du sport si la douleur revient en courant.
+  `data/planned_manual.csv` mis à jour (renfo A au 07/10, vélo du 09/10 supprimé). Pacer recalculera la suite selon les séances faites.
+- **À suivre** : test du tibia du 06/10 au matin (jambe, /10, bande ou point, effet du foot) ; règle « 1 qualité par semaine », semaine type
+  et place du rugby à trancher au bilan du 11-12/10.

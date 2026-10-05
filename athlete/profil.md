@@ -41,7 +41,7 @@
 |---|---|---|---|
 | Récurrent | Genoux : petites douleurs quand il ne s'échauffe pas assez | - | échauffement |
 | Récurrent | Chevilles : douleurs de temps en temps (cheville sensible le 01/10/2026) | - | ❓ |
-| 03/10/2026 → | **Tibia** : douleur diffuse « tout le long du tibia », apparue pendant le 2 × 2000 m (arrêt après 1 répétition). Arthur l'attribue au vélo intense du 29/09 ; le coach suspecte plutôt la hausse de volume course de septembre (tableau type périostite / syndrome de stress tibial médial, à confirmer) | en cours | voir JOURNAL 03/10 |
+| 03/10/2026 → | **Tibia** : douleur diffuse « tout le long du tibia », apparue pendant le 2 × 2000 m (arrêt après 1 répétition). Arthur l'attribue au vélo intense du 29/09 ; le coach suspecte plutôt la hausse de volume course de septembre (tableau type périostite / syndrome de stress tibial médial, à confirmer). **Revenue le 05/10** vers km 2 (échauffement), calmée après une pause : 2 alertes en 3 jours | en cours | voir JOURNAL 03/10 et 05/10 |
 
 ## Contraintes et disponibilités
 

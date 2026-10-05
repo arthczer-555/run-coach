@@ -7,7 +7,7 @@
 <sub>Catégorie : <b>Perso loisir</b> · Stack : Claude Code + Python (uv) + Garmin Connect</sub>
 
 <!-- AUTO:maj:start -->
-<sub>Mis à jour le 03/10/2026 · dernière activité : 3 oct. (🏃 6.0 km · 36:00 · 5:59/km · 131 bpm · RPE 3)</sub>
+<sub>Mis à jour le 05/10/2026 · dernière activité : 5 oct. (🏃 9.0 km · 54:24 · 6:02/km · 142 bpm · RPE 6)</sub>
 <!-- AUTO:maj:end -->
 
 </div>
@@ -20,14 +20,14 @@
 <div align="center">
 
 ### 🎯 Semi-marathon · 22 nov. 2026
-## J-50
+## J-48
 **Objectif 1:50:00** · 5:13/km
 
 | 🔮 Prédiction Garmin | 🫁 VO2max | 🔥 Série ≥ 3 sorties/sem. | ✅ Plan cette semaine | 🏃 Km cette semaine |
 |:-:|:-:|:-:|:-:|:-:|
-| **1:49:42**<br><sub>▼ 4:54 en 4 sem.</sub><br><sub>🟢 prédiction sous l'objectif</sub> | **55** | **2 sem.** | **2/2** ✅ | **10.9** |
+| **1:50:03**<br><sub>▼ 4:40 en 4 sem.</sub><br><sub>🟠 0:03 à gagner</sub> | **55** | **0 sem.** | **1/1** ✅ | **9.0** |
 
-`█████████░░░░░░░░░░░░░░░` 38 % de la prépa
+`█████████░░░░░░░░░░░░░░░` 41 % de la prépa
 
 </div>
 <!-- AUTO:objectif:end -->
@@ -35,39 +35,40 @@
 ## 💬 Le mot du coach
 
 <!-- Section écrite par le coach à la fin de chaque bilan (3 à 5 lignes max). -->
-> **03/10 · Premier bilan.** Gros mois de septembre (volume presque doublé) pour un corps qui court depuis l'été : le moteur suit (VMA 15),
-> les tibias protestent. Priorité absolue : **arriver en bonne santé au 22/11**, le chrono vient après.
-> Cette semaine : on calme l'impact (pas de 400 m, sortie longue ≤ 13 km), footings au test de la parole, vélo **facile**.
-> Et on lance un renfo de prévention (mollets, tibias, chevilles, genoux) dès que le programme est validé.
+> **05/10 · Moins de séances dures, pas moins de kilomètres.** Ton 1er 2000 m à 5:11 était pile dans la cible ; au 2e, la chaleur
+> (+18-20 bpm à allure égale) t'a mis en effort seuil, ralentir était le bon choix. Le souci n'est pas tes footings (bien faits), c'est
+> qu'**une séance sur deux est dure** (Pacer + rugby). Proposé : **1 seule séance de qualité par semaine**, le reste vraiment facile.
+> Tibia revenu à km 2 : test chaque matin, et s'il revient à la prochaine sortie → kiné ou médecin du sport.
 
 ## 📅 La semaine
 
 <!-- AUTO:semaine:start -->
-#### Cette semaine · 28 sept. → 4 oct.
+#### Cette semaine · 5 oct. → 11 oct.
 
 | Jour | Prévu | Réalisé | |
 |---|---|---|:-:|
-| Lu 28 |  |  | 😴 |
-| Ma 29 |  | 🚴 1h29 · 31 km · 138 bpm · RPE 4 | ➕ |
-| Me 30 |  |  | 😴 |
-| Je 1 | 🏃 50 min footing lent · 50 min | 🏃 4.9 km · 33:36 · 6:50/km · 126 bpm · RPE 2 | ✅ |
-| Ve 2 |  |  | 😴 |
-| **Sa 3** | 🏃 2 x 2000m allure spé | 🏃 6.0 km · 36:00 · 5:59/km · 131 bpm · RPE 3 | ✅ |
-| Di 4 |  |  |  |
-
-#### Semaine prochaine · 5 oct. → 11 oct.
-
-| Jour | Prévu | Réalisé | |
-|---|---|---|:-:|
-| Lu 5 |  |  |  |
-| Ma 6 | 🏃 2 x 3000m allure de course |  | 🗓️ |
-|  | 🏋️ Renfo A · Jambes solides · 22 min |  | 🗓️ |
-| Me 7 |  |  |  |
+| **Lu 5** | 🏃 2 x 3000m allure de course | 🏃 9.0 km · 54:24 · 6:02/km · 142 bpm · RPE 6 | ✅ |
+| Ma 6 |  |  |  |
+| Me 7 | 🏋️ Renfo A · Jambes solides · 22 min |  | 🗓️ |
 | Je 8 | 🏃 7 x 400m (R=1 min) |  | 🗓️ |
 |  | 🏋️ Renfo B · Haut du corps + hanches · 21 min |  | 🗓️ |
-| Ve 9 | 🚴 Vélo endurance Z2 · 50 min |  | 🗓️ |
+| Ve 9 |  |  |  |
 | Sa 10 |  |  |  |
 | Di 11 | 🏃 15km endurance · 15 km |  | 🗓️ |
+
+#### Semaine prochaine · 12 oct. → 18 oct.
+
+| Jour | Prévu | Réalisé | |
+|---|---|---|:-:|
+| Lu 12 |  |  |  |
+| Ma 13 | 🏃 15KM Progressifs |  | 🗓️ |
+|  | 🏋️ Renfo A · Jambes solides · 22 min |  | 🗓️ |
+| Me 14 |  |  |  |
+| Je 15 | 🏃 1 h endurance · 1h00 |  | 🗓️ |
+|  | 🏋️ Renfo B · Haut du corps + hanches · 21 min |  | 🗓️ |
+| Ve 16 | 🚴 Vélo endurance Z2 · 55 min |  | 🗓️ |
+| Sa 17 |  |  |  |
+| Di 18 | 🏃 15km endurance · 15 km |  | 🗓️ |
 
 <sub>✅ fait · 🔄 décalé · ❌ manqué · ⏳ aujourd'hui · 🗓️ à venir · ➕ hors plan · 😴 repos</sub>
 <!-- AUTO:semaine:end -->
@@ -145,7 +146,7 @@
 |:-:|:-:|:-:|:-:|
 | 🔒<br>**Mois à 100 km**<br><sub>100 km de course dans un mois</sub><br><sub>`███████░` meilleur mois 93 / 100 km</sub> | 🔒<br>**Sub 25 au 5 km**<br><sub>Record 5 km sous 25:00</sub><br><sub>`███████░` record 27:31</sub> | 🔒<br>**15 bornes**<br><sub>Une sortie de 15 km ou plus</sub><br><sub>`██████░░` 13.0 / 15.0 km</sub> | 🔒<br>**Sub 50 au 10 km**<br><sub>Record 10 km sous 50:00</sub><br><sub>`██████░░` record 58:55</sub> |
 | 🔒<br>**18 bornes**<br><sub>Une sortie de 18 km ou plus</sub><br><sub>`█████░░░` 13.0 / 18.0 km</sub> | 🔒<br>**Semaine polarisée**<br><sub>Une semaine à 3 sorties ou plus avec 80 % du temps en Z1-Z2</sub><br><sub>`█████░░░` meilleure semaine 56 % en Z1-Z2</sub> | 🔒<br>**Distance semi**<br><sub>Courir 21,1 km d'une traite</sub><br><sub>`████░░░░` 13.0 / 21.1 km</sub> | 🔒<br>**Régulier**<br><sub>4 semaines d'affilée avec 3 sorties ou plus</sub><br><sub>`████░░░░` meilleure série 2 / 4 sem.</sub> |
-| 🔒<br>**Rouleur régulier**<br><sub>4 semaines d'affilée avec une sortie vélo</sub><br><sub>`████░░░░` meilleure série 2 / 4 sem.</sub> | 🔒<br>**500 km**<br><sub>500 km de course cumulés</sub><br><sub>`███░░░░░` 209 / 500 km</sub> | 🔒<br>**Machine**<br><sub>8 semaines d'affilée avec 3 sorties ou plus</sub><br><sub>`██░░░░░░` meilleure série 2 / 8 sem.</sub> | 🔒<br>**1000 km**<br><sub>1000 km de course cumulés</sub><br><sub>`█░░░░░░░` 209 / 1000 km</sub> |
+| 🔒<br>**Rouleur régulier**<br><sub>4 semaines d'affilée avec une sortie vélo</sub><br><sub>`████░░░░` meilleure série 2 / 4 sem.</sub> | 🔒<br>**500 km**<br><sub>500 km de course cumulés</sub><br><sub>`███░░░░░` 218 / 500 km</sub> | 🔒<br>**Machine**<br><sub>8 semaines d'affilée avec 3 sorties ou plus</sub><br><sub>`██░░░░░░` meilleure série 2 / 8 sem.</sub> | 🔒<br>**1000 km**<br><sub>1000 km de course cumulés</sub><br><sub>`█░░░░░░░` 218 / 1000 km</sub> |
 | 🔒<br>**Grimpeur**<br><sub>500 m de D+ en course sur une semaine</sub><br><sub>`█░░░░░░░` meilleure semaine 95 / 500 m D+</sub> | 🔒<br>**Jambes d'acier**<br><sub>6 semaines d'affilée avec du renfo</sub><br><sub>`█░░░░░░░` meilleure série 1 / 6 sem.</sub> | 🔒<br>**Inarrêtable**<br><sub>16 semaines d'affilée avec 3 sorties ou plus</sub><br><sub>`█░░░░░░░` meilleure série 2 / 16 sem.</sub> | 🔒<br>**Sub 1h50 au semi**<br><sub>L'objectif du 22/11/2026</sub><br><sub>`░░░░░░░░` pas encore de semi</sub> |
 | 🔒<br>**Noctambule**<br><sub>Une sortie commencée après 21 h</sub> |  |  |  |
 
@@ -159,8 +160,7 @@
 <!-- AUTO:programme:start -->
 | Semaine | Lu | Ma | Me | Je | Ve | Sa | Di |
 |---|---|---|---|---|---|---|---|
-| **28 sept.**<br><sub>course dans 7 sem.</sub> 👈 |  |  |  | 🏃 50 min footing lent ✅ |  | **🏃 2 x 2000m allure spé ✅** |  |
-| **5 oct.**<br><sub>course dans 6 sem.</sub> |  | 🏃 2 x 3000m allure course<br>🏋️ Renfo A · 22 min |  | 🏃 7 x 400m (r 1 min)<br>🏋️ Renfo B · 21 min | 🚴 Vélo endurance Z2 · 50 min |  | 🏃 15km endurance |
+| **5 oct.**<br><sub>course dans 6 sem.</sub> 👈 | **🏃 2 x 3000m allure course ✅** |  | 🏋️ Renfo A · 22 min | 🏃 7 x 400m (r 1 min)<br>🏋️ Renfo B · 21 min |  |  | 🏃 15km endurance |
 | **12 oct.**<br><sub>course dans 5 sem.</sub> |  | 🏃 15KM Progressifs<br>🏋️ Renfo A · 22 min |  | 🏃 1 h endurance<br>🏋️ Renfo B · 21 min | 🚴 Vélo endurance Z2 · 55 min |  | 🏃 15km endurance |
 | **19 oct.**<br><sub>course dans 4 sem.</sub> |  | 🏃 5000m allure course<br>🏋️ Renfo A · 25 min |  | 🏃 55 min endurance<br>🏋️ Renfo B · 23 min | 🚴 Vélo endurance Z2 · 1h05 |  | 🏃 12km endurance |
 | **26 oct.**<br><sub>course dans 3 sem.</sub> |  | 🏃 5 x 1500m 90% VMA (r 2 min)<br>🏋️ Renfo A · 25 min |  | 🏃 8 x 500m (r 200m)<br>🏋️ Renfo B · 23 min | 🚴 Vélo endurance Z2 · 1h05 |  | 🏃 16km endurance |
@@ -178,7 +178,9 @@
 |:-:|:-:|:-:|:-:|:-:|
 | **Spécifique** | **3** (mar · jeu · dim) | **5:06-5:18/km** | **17 km** le 08/11 | à partir du 10/11 |
 
-**Séances clés à venir** : 2 × 3000 m allure course (06/10) · 15 km progressifs (13/10) · 5000 m allure course (20/10) · 5 × 1500 m à 90 % VMA (27/10) · 17 km dont 4 km allure semi (08/11).
+**Séances clés à venir** : 15 km progressifs (13/10) · 5000 m allure course (20/10) · 5 × 1500 m à 90 % VMA (27/10) · 17 km dont 4 km allure semi (08/11).
+
+> ⚠️ **Adaptation proposée le 05/10 (en attente de validation)** : 1 seule séance de qualité par semaine (allure semi à 5:13-5:18, jamais plus vite), les séances VMA deviennent footing + lignes droites, sortie longue en facile tant que le tibia n'est pas calme 2 semaines. Le rugby du lundi compte comme la 2e séance dure.
 <sub>Plan synchronisé automatiquement depuis le calendrier Garmin (export Kiprun Pacer). Détail semaine par semaine : [plans/kiprun.md](plans/kiprun.md)</sub>
 
 ### 🟧 Programme complémentaire · « Prévention semi » · 05/10 → 22/11
@@ -351,7 +353,7 @@ Peut remplacer une sortie facile si le tibia fait mal, **jamais** la sortie long
 <!-- Section coach : douleurs ou blessures suivies, avec statut et date. -->
 | Zone | Depuis | Intensité | Statut | Conduite à tenir |
 |---|---|:-:|:-:|---|
-| Tibia (douleur diffuse le long de l'os, apparue en courant) | 03/10/2026 | 0 au test du 04/10 | 🟡 | **Test du tibia** avant chaque sortie (ci-dessous). Moins d'impact cette semaine. Douleur au saut → vélo ; point précis, douleur à la marche ou la nuit → arrêt et médecin |
+| Tibia (douleur diffuse le long de l'os, apparue en courant) | 03/10/2026, **revenue le 05/10** (km 2, calmée après une pause) | 0 au test du 04/10 · note du 05/10 à préciser | 🟠 | **Test du tibia** chaque matin et avant chaque sortie (ci-dessous). Pas de rugby le soir d'une séance. **Si elle revient à la prochaine sortie → kiné ou médecin du sport**, vélo en attendant. Point précis, douleur à la marche ou la nuit → arrêt et médecin |
 | Cheville | 01/10/2026 | légère | 🟡 | Surveiller ; renfo cheville à venir |
 | Genoux | récurrent | légère | 🟡 | Échauffement systématique ; renfo hanches et quadriceps à venir |
 
@@ -375,8 +377,8 @@ Peut remplacer une sortie facile si le tibia fait mal, **jamais** la sortie long
 <!-- AUTO:totaux:start -->
 | | 2026 | Depuis le début |
 |---|--:|--:|
-| 🏃 Course | **179 km** · 23 sorties · 18 h | **209 km** · 30 sorties · 22 h |
-| ⛰️ D+ course | 505 m | 523 m |
+| 🏃 Course | **188 km** · 24 sorties · 19 h | **218 km** · 31 sorties · 22 h |
+| ⛰️ D+ course | 515 m | 533 m |
 | 🚴 Vélo | 56 km · 2 sorties · 3 h | 56 km · 2 sorties · 3 h |
 | 🏋️ Renfo | 0 séances | 1 séances |
 <!-- AUTO:totaux:end -->
