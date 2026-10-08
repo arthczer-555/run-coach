@@ -1,5 +1,5 @@
 {
- "fetched": "2026-10-05T22:48:10",
+ "fetched": "2026-10-08T09:33:06",
  "items": [
   {
    "date": "2026-09-02",
@@ -154,6 +154,17 @@
    "sport": "run",
    "title": "2 x 3000m allure de course",
    "workout_id": 1720585810
+  },
+  {
+   "date": "2026-10-07",
+   "description": "Cette séance a pour but de développer votre VMA. Les sessions d'effort doivent d'ailleurs être courues à une allure la plus proche possible de votre VMA. Essayez d'être le plus régulier possible et lâchez-vous lors de la dernière répétition.",
+   "details": "Échauffement 20 min @ 6:15-6:33/km · 7 × (400 m @ 3:57-4:04/km + Repos 1 min @ 6:31-6:50/km) · Récup 10 min @ 6:31-6:50/km",
+   "distance_km": null,
+   "duration_min": null,
+   "source": "garmin",
+   "sport": "run",
+   "title": "7 x 400m (R=1 min)",
+   "workout_id": 1722690328
   },
   {
    "date": "2026-10-08",

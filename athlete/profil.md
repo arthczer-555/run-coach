@@ -26,7 +26,8 @@
 |---|---|---|
 | FC max | 197 (réglage Garmin, **auto-détection**) | jamais atteinte : max observé **178** (15 × 1'/1' du 23/09, sorties de juillet-août). Valeur non validée → zones FC incertaines |
 | FC repos | 50 (réglage Garmin) | non mesurée (montre pas portée la nuit) |
-| FC seuil (LTHR) | ❓ | |
+| Seuil (allure, LT2) | **~4:55-5:05/km au frais** (≈ 12-12,2 km/h, ~80 % VMA) ; au chaud (25-30 °C) plutôt ~5:15-5:25 | estimation du 07/10/2026 (VMA 15,2 + laps des séances allure spé), ±10 s/km. Cohérent avec l'allure « seuil » de Pacer (4:55-5:05). À confirmer : 30 min à fond ou 10 km au frais, tibia calme |
+| FC seuil (LTHR) | ~160-168 bpm (très incertain) | efforts durs tenus à 161-166 bpm (17/09, 05/10) ; test VMA du 19/09 plafonné à 168 (FC poignet en retard ou collée à la cadence ~165). Ne pas piloter à la FC |
 | VMA | **15 km/h** (4:00/km) | test VMA Kiprun Pacer du 19/09/2026 (6 min) |
 | VO2max Garmin | 55,4 (03/10/2026) | estimation montre, tendance seulement |
 | Zones FC utilisées | Garmin %FCmax : Z1 99 · Z2 118 · Z3 138 · Z4 158 · Z5 177 bpm | les sorties « endurance » Kiprun (5:48-6:03/km) tombent surtout en Z3 : calibrage à discuter |

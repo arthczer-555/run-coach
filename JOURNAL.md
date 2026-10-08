@@ -12,20 +12,22 @@
 
 <!-- Tenu à jour à chaque session. ~40 lignes max. C'est la mémoire de travail du coach. -->
 
-**Mis à jour le** : 2026-10-05 (2 × 2000 m au chaud, tibia revenu à km 2, semaine allégée, règle « 1 qualité/sem » à trancher au bilan)
+**Mis à jour le** : 2026-10-07 (seuil estimé, allures Pacer OK sauf « endurance », 18 km du 13/10 refusés, semaine du 12/10 à caler au bilan)
 
 - **Athlète** : Arthur, 24 ans, 65 kg, Forerunner 165. **Débutant** : court régulièrement depuis ~août, **aucune course officielle**.
   VMA **15 km/h** (test Pacer du 19/09). FC max Garmin 197 = auto-détection, jamais atteinte (max observé 178) → zones FC incertaines.
   Montre **portée la nuit depuis le 03-04/10** (1re nuit : sommeil 7h33, FC repos 47, HRV 79 ms) ; baseline HRV Garmin d'ici ~3 semaines.
 - **Objectif** : semi le **22/11/2026**, visé en **1h50** (77 % de VMA ; prédiction Garmin 1:49:42). Jugé ambitieux mais plausible ;
   le risque principal est la blessure. Proposé : A < 1h50 · B < 1h55 bien géré · C finir sans blessure. À réévaluer fin octobre.
-- **Après** : marathon, puis triathlon (M puis half), peut-être trail.
+- **Après** : marathon, puis triathlon (M puis half), peut-être trail. **07/10** : envisage un 70.3 en juin/juillet 2027 ; reco coach
+  = 70.3 (+ tri M en préparation) **avant** le marathon, pas les deux au printemps. Natation = chantier n°1 (club / cours dès décembre).
 - **Plan** : Kiprun Pacer, 3 séances/sem (jours variables), phase spécifique, allure course 5:06-5:18. Tout le plan est dans Garmin.
 - **Rugby tous les lundis soir** (+ foot en fin d'entraînement), découvert le 04/10, jamais enregistré dans Garmin : charge intense cachée.
   Règle : **jamais de séance clé le lendemain du rugby** (mardi). Pacer met ses séances clés le mardi → jours à changer.
 - **Santé** : 🟠 **tibia** : douleur diffuse le long de l'os le 03/10 (2 × 2000 m, arrêt après 1 rép.), test RAS le 04/10, **revenue le
   05/10 vers km 2** (échauffement), calmée après une pause, séance finie. 2 alertes en 3 jours, plus tôt dans la sortie : à surveiller.
-  **Si elle revient à la prochaine sortie → kiné / médecin du sport**, vélo en attendant. Test du tibia avant chaque sortie. Arthur
+  **Si elle revient à la prochaine sortie → kiné / médecin du sport**, vélo en attendant. **06/10 : test RAS** malgré rugby le 05/10 au soir
+  (crampes, petite douleur le lendemain jugée normale). Test du tibia avant chaque sortie. Arthur
   l'attribuait au vélo ; le coach pense à la charge (volume de septembre +72 % + rugby invisible + densité d'intensité).
   Genoux (si pas échauffé) et chevilles : récurrent léger.
 - **Diagnostic « jambes » (03/10)** : le cœur a de la marge à allure semi (FC ~135-150 au frais), ce sont les jambes qui limitent
@@ -38,6 +40,12 @@
 - **Intensité** (analyse du 05/10) : depuis juillet 45 % Z1-2 / 43 % Z3 / 12 % Z4 (zones Garmin sur FCmax 197, Z3 = 138-158). Footings
   lents OK (126-132 bpm). Problème = **densité** : 7 sorties sur 13 en qualité depuis le 01/09 + rugby. Pacer met 2 qualités + bloc allure
   semi dans la SL chaque semaine : trop pour lui aujourd'hui. Volume du plan : OK.
+- **Seuil (07/10)** : **~4:55-5:05/km au frais** (~80 % VMA 15,2), ~5:15-5:25 au chaud ; FC seuil ~160-168 (incertaine, ne pas piloter à
+  la FC). Allures Pacer bien calibrées, sauf **« endurance » 5:48-6:03 trop rapide** pour lui → test de la parole (~6:10-6:30).
+  À mesurer (30 min à fond ou 10 km au frais) quand le tibia est calme.
+- **Pacer S+1 (12-18/10) trop gros** : 15 km progressifs du 13/10 ≈ **18 km** (+39 % vs plus longue sortie 13 km, plafond 14,3) fini au seuil,
+  lendemain du rugby ; semaine ≈ 43 km. Proposé le 07/10 : Ma repos, Me/Je progressif raccourci ~10-11 km (3 km à 5:40-5:50 + 3 km à
+  5:13-5:18), footing 40 min, SL 18/10 12-13 km facile (~30 km). À valider au bilan.
 - **Proposé le 05/10 (en attente)** : 1 seule qualité/sem (allure semi/seuil Pacer à 5:13-5:18, jamais plus vite), VMA → footing + lignes
   droites, SL en facile (bloc allure semi après 2 sem. sans douleur), « endurance » au test de la parole (≤ ~150 bpm au frais), rugby = la
   2e séance dure, séances clés au frais. Décision 1h50 / 1h55 fin octobre sur un test au frais.
@@ -330,3 +338,51 @@
   `data/planned_manual.csv` mis à jour (renfo A au 07/10, vélo du 09/10 supprimé). Pacer recalculera la suite selon les séances faites.
 - **À suivre** : test du tibia du 06/10 au matin (jambe, /10, bande ou point, effet du foot) ; règle « 1 qualité par semaine », semaine type
   et place du rugby à trancher au bilan du 11-12/10.
+
+### 2026-10-07 · Question · Mon seuil, mes allures Pacer et les 18 km du mardi 13/10
+
+- **Contexte** : Arthur demande quel est son seuil et si ses séances sont adaptées, puis remarque que Pacer lui met ~18 km mardi
+  prochain. Données : test VMA du 19/09 = 1,52 km en 5:59 (VMA ~15,2 km/h, FC max 168 seulement) ; allure spé tenue à 5:07-5:13 au
+  frais (03/10, FC 135-142, RPE 3) mais 5:19-5:35 sur 3 km à 25 °C (17/09, FC → 166) et rép. 2 à 5:23 à 29 °C (05/10, FC 164-166) ;
+  13 km « endurance » du 27/09 à 5:56 avec FC qui dérive de 134 à 158. Pas de check-in tibia depuis le 05/10.
+- **Analyse du coach** :
+  - **Seuil (LT2, allure tenable ~1 h)** estimé à **~4:55-5:05/km au frais** (~80 % VMA, bas de la fourchette 80-85 % car débutant
+    limité par les jambes), **~5:15-5:25 au chaud**. FC seuil ~160-168 bpm, trop incertaine pour piloter (FCmax inconnue, FC poignet).
+    L'objectif 1h50 demande un seuil vers 5:03 (VDOT 40) : il est pile dans la zone, d'où « ambitieux mais plausible ».
+  - **Allures Pacer bien calibrées sur sa VMA** : allure spé 5:06-5:18 = juste sous le seuil au frais ; « seuil » Pacer 4:55-5:05 = son
+    seuil ; VMA 3:57-4:31 cohérentes. Seule exception : **« endurance » 5:48-6:03 trop rapide** pour du facile chez lui (145-158 bpm, dérive
+    au chaud) → au test de la parole, ~6:10-6:30. Le problème du plan n'est pas l'allure, c'est la **dose** (densité, sauts de distance).
+  - **15 km progressifs du 13/10** = 10 min + 15 km (5 à 5:36-5:50, 5 à 5:14-5:26, **5 au seuil 4:55-5:05**) + 10 min ≈ **18 km, ~1h40**.
+    Plus longue sortie des 30 derniers jours : 13,0 km → plafond 14,3 km [Frandsen 2025] ; 18 km = **+39 %** (bande +30-100 %, HRR 1,52).
+    Volume ET intensité en hausse dans la même séance, le lendemain du rugby, avec un tibia qui a parlé 2 fois. Semaine Pacer du 12/10 ≈ 43 km
+    (10,9 puis ~24 km avant, max historique 30,8). SL du 18/10 (15 km) aussi au-dessus du plafond.
+- **Décisions / conseils** (proposés, à caler au bilan du 11-12/10) : **pas les 18 km**. Si tibia muet jeudi et dimanche : Ma 13 repos
+  (lendemain rugby) ; Me 14 ou Je 15 **progressif raccourci ~10-11 km** (2 km facile, 3 km à 5:40-5:50, 3 km à 5:13-5:18, 2 km retour au
+  calme), sans bloc à 4:55-5:05 ; footing 40 min au test de la parole ; SL du 18/10 **12-13 km tout en facile**. ~29-30 km sur la semaine.
+  Blocs au seuil (4:55-5:05) seulement après 2 semaines sans douleur au tibia. Si le tibia reparle → kiné / médecin du sport, vélo.
+  Mesure du seuil : 30 min à fond seul [McGehee 2005] ou 10 km au frais, en remplacement du test de fin octobre, tibia calme.
+- **À suivre** : test du tibia du 06/10 et effet du foot du 05/10 (pas encore de nouvelles) ; rugby du 12/10 ; validation de la semaine du
+  12/10 au bilan.
+
+### 2026-10-07 · Question · Et un half Ironman (70.3) en juin/juillet 2027 ?
+
+- **Contexte** : Arthur demande « en gros » ce que serait la prépa d'un 70.3 (1,9 / 90 / 21,1 km) en juin/juillet 2027 et l'avis du coach.
+  Overview voulue, pas un plan complet. Natation quasi inexistante (5 séances en 08/2025), vélo route occasionnel, ~3 mois de course régulière.
+- **Analyse du coach** : faisable en ~30 semaines après le semi, objectif finisher (~6h-6h30). Plus adapté que le marathon comme étape
+  suivante : moteur en avance sur les jambes, tibia fragile, et le 70.3 met le gros du volume sur vélo + nage (sans impact). Facteur limitant
+  = natation (technique, eau libre). Phases : récup + découverte (fin nov-déc, 4-6 h/sem) → base (janv-fév, 6-8 h) → construction
+  (mars-avr, 8-10 h) → spécifique avec enchaînements, eau libre, tri M de préparation (mai-juin, 9-11 h) → affûtage 2 sem.
+- **Décisions / conseils** : rien ne change avant le semi du 22/11. Pas marathon au printemps + 70.3 l'été : choisir (reco : 70.3, marathon
+  après). Club de tri ou cours de crawl dès décembre. Préférer fin juin / juillet.
+- **À suivre** : réponses d'Arthur (crawl sans s'arrêter ?, stage de fin d'études : dates, marathon gardé ou décalé ?).
+
+### 2026-10-07 · Douleur · Tibia RAS après le rugby du 05/10
+
+- **Contexte / réponses d'Arthur** : test du tibia du 06/10 RAS. Il a finalement joué **au rugby le 05/10 au soir** (pas le foot tranquille
+  prévu), après les 9 km au chaud : un peu de crampes, petite douleur le lendemain qu'il juge normale.
+- **Analyse du coach** : bonne nouvelle, le tibia a encaissé la journée la plus chargée possible (2 × 2000 m à 29 °C + rugby) sans réagir.
+  Les crampes signent une journée trop pleine (chaleur, sueur, 2 séances) plutôt qu'un problème. Les 2 alertes du tibia sont arrivées
+  **en courant**, pas au rugby : c'est la course qui reste le test.
+- **Décisions** : semaine allégée maintenue (Me renfo A sans saut, Je footing 30-35 min + renfo B, Di 10 km facile). Les lundis : manger et
+  boire avant le rugby, et ne pas empiler une séance clé le même jour. Rugby compté comme séance dure dans la semaine type.
+- **À suivre** : zone de la douleur du 06/10 (muscle ou tibia), tibia pendant le footing de jeudi.
